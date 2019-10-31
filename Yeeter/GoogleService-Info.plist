@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>581300563783-vc4mb0efl0et1fgnovt0ft3d9kqj495g.apps.googleusercontent.com</string>
+	<string>714941442409-5i36vva5al69jrvn9dmtu73oein44gin.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.581300563783-vc4mb0efl0et1fgnovt0ft3d9kqj495g</string>
+	<string>com.googleusercontent.apps.714941442409-5i36vva5al69jrvn9dmtu73oein44gin</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBXvnAcataxnCy1MZ86PJc23UPpLYHv2Pg</string>
+	<string>AIzaSyCHlNyCXGOpafLYcvFnJzDiqOdw6yhW2WY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>581300563783</string>
+	<string>714941442409</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.backend.yeeter</string>
+	<string>AntonioVega.Yeeter</string>
 	<key>PROJECT_ID</key>
-	<string>yeeter-backend</string>
+	<string>yeeter-5b7f2</string>
 	<key>STORAGE_BUCKET</key>
-	<string>yeeter-backend.appspot.com</string>
+	<string>yeeter-5b7f2.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:581300563783:ios:ab03cc77f30f11dc432662</string>
+	<string>1:714941442409:ios:04fb017505ea4a0ad0b5f8</string>
 	<key>DATABASE_URL</key>
-	<string>https://yeeter-backend.firebaseio.com</string>
+	<string>https://yeeter-5b7f2.firebaseio.com</string>
 </dict>
 </plist>
