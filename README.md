@@ -52,7 +52,7 @@ Out app is a twitter, but with likes and dislikes to each post. Before then, peo
 
 First Milestone: We want to get our app and Firebase starts talking to each other. 
 
-<img src="Wireframe_yeeter.png">
+<img src="Wireframe_yeeter.svg">
 
 
 
